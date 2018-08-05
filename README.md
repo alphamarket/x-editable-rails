@@ -12,7 +12,7 @@ Checkout live demo [here](https://x-editable-rails.herokuapp.com/?denied=true)
 
 Add this line to your application's Gemfile:
 
-    gem 'x-editable-rails'
+    gem 'x-editable-rails', github: 'alphamarket/x-editable-rails'
 
 And then execute:
 
